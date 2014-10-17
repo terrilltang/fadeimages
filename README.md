@@ -13,7 +13,10 @@ jquery
 
 ## Demo
 
-[Demo Example](http://terrilltang.github.io/fade-images.html "Jquery response full screen fade image")http://terrilltang.github.io/fade-images.html
+[Demo Example](http://terrilltang.github.io/fade-images.html "Jquery response full screen fade image")
+
+
+http://terrilltang.github.io/fade-images.html
 
 ## License
 

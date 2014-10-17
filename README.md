@@ -4,7 +4,7 @@
 
 please git clone and check html files
 
-fade-images.html (use requirejs)
+fade-images.html 
 
 
 ## plugins dependence

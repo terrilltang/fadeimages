@@ -32,6 +32,7 @@
     .slide ul {
       margin: 0 auto;
       height: 382px;
+      cursor:pointer;
     }
 
     .slide ul li {
@@ -120,6 +121,7 @@
 <script>
   $(document).ready(function($) {
     $(".slide").fadeImages({
+      time:4000,
       arrows: true,
       complete: function() {
         console.log("Fade Images Complete");
